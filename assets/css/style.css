@@ -251,7 +251,7 @@ hr {
   
     .userprofile {
         height: 10rem;
-        background: #f7941d;
+        background: #e3324a;
     }
     .usericon img {
         height: 3.6rem;
@@ -259,7 +259,7 @@ hr {
         margin-left: 1rem;
     }
     .username p {
-        color: rgb(0, 0, 0);
+        color: rgb(241, 241, 241);
         margin-top: 1.7rem;
         margin-left: 1rem;
         margin-bottom: 0;
@@ -274,7 +274,7 @@ hr {
         margin-left: 7px;
     }
     .usernumber p {
-        color: rgb(27, 27, 27);
+        color: rgb(247, 247, 247);
         font-size: 14px;
         margin-left: 1rem;
     }
@@ -307,7 +307,7 @@ hr {
     }
     .sblinktxt p:hover {
         font-weight: 550;
-        color: #f7941d;
+        color: #e3324a;
     }
     .sidebarlink:hover .sblinknav img {
         transform: rotate(90deg);
@@ -338,7 +338,7 @@ hr {
         margin-bottom: 15px;
     }
     .dtbtn {
-        background-color: #f7941d;
+        background-color: #e3324a;
         color: white;
         font-size: 15px;
         padding: 7px;
@@ -355,7 +355,7 @@ hr {
         width: 10%;
         text-align: left;
         margin: 0;
-        background-color: #f7941d;
+        background-color: #e3324a;
         height: 1px;
     }
     
@@ -444,7 +444,7 @@ hr {
         text-align: center;
     }
     .cont-sub {
-        background-color: #f7941d;
+        background-color: #e3324a;
         color: white;
         font-size: 14px;
         width: 100%;
@@ -452,7 +452,7 @@ hr {
     .sociallinks-c {
         display: flex;
         margin-left: 0px;
-        color: #209586;
+        color: #e3324a;
     }
     .socialitem img {
         height: 1.7rem;
@@ -565,7 +565,7 @@ hr {
         margin-bottom: 0px;
     }
     .nav-review1 {
-        background-color: #209586;
+        background-color: #e3324a;
         height: 1.8rem;
         margin-top: 5.5rem;
         width: 1.8rem;
@@ -573,7 +573,7 @@ hr {
         border-radius: 50%;
     }
     .nav-review2 {
-        background-color: #209586;
+        background-color: #e3324a;
         height: 1.8rem;
         margin-top: 5.5rem;
         width: 1.8rem;
@@ -690,7 +690,7 @@ hr {
         text-decoration: underline black;
     }
     .fg-log1 a {
-        background-color: #f7941d;
+        background-color: #e3324a;
         color: white;
         width: 100%;
         font-size: 14px;
@@ -765,7 +765,7 @@ hr {
         margin-bottom: 2.5rem;
     }
     .fg-us a {
-        background-color: #f7941d;
+        background-color: #e3324a;
         color: white;
         width: 40%;
         margin-left: 1rem;
@@ -774,8 +774,8 @@ hr {
     }
     .fg-us .rst {
         background-color: white;
-        border: 2px solid #f7941d;
-        color: #f7941d;
+        border: 2px solid #e3324a;
+        color: #e3324a;
     }
     .us-gender {
         padding-left: 0.5rem;
@@ -787,13 +787,17 @@ hr {
     .abt-footer p{
         text-align: center;
         font-size: 14px;
-        color: rgb(255, 255, 255);
+        color: white;
         margin-bottom: 0px;
+    }
+    .abt-footer small{
+        color: white;
+        font-size: 11.5px;
     }
     .abt-footer{
         padding: 0.3rem;
         text-align: center;
-        background-color: #f7941d;
+        background-color: rgb(56, 56, 56);
     }
 
 
@@ -907,6 +911,12 @@ hr {
        font-weight: 600;
        margin-bottom: 4px;
    }
+   .info11 p{
+       font-size: 13px;
+       font-weight: 600;
+       margin-bottom: 4px;
+       color: rgb(97, 97, 97);
+   }
    .info2{
        display: flex;
        margin-top: 0.4rem;
@@ -979,7 +989,7 @@ hr {
        justify-content: center;
    }
    .callnow{
-       background-color: #f7941d;
+       background-color: #e3324a;
        width: 5.7rem;
        margin-right: 1rem;
        padding: 0.3rem;
@@ -988,6 +998,7 @@ hr {
    .callnow img{
        margin-top: 4px;
        height: 0.6rem;
+       color: #e3324a;
    }
 }
 
