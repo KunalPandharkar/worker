@@ -782,11 +782,13 @@ hr {
     .abt-footer p{
         text-align: center;
         font-size: 14px;
-        color: rgb(90, 90, 90);
+        color: rgb(255, 255, 255);
         margin-bottom: 0px;
     }
     .abt-footer{
         padding: 0.3rem;
+        text-align: center;
+        background-color: #f7941d;
     }
 
 
@@ -960,6 +962,9 @@ hr {
        font-size: 13px;
        margin-bottom: 0px;
        
+   }
+   .fg-log textarea{
+       font-size: 14px;
    }
    .rating1{
        text-align: center;
