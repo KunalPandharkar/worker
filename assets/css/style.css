@@ -88,7 +88,7 @@ hr {
 }
 
 #searchbox {
-    background: #0b0e25;
+    background: #4056A1;
   
 }
 
@@ -237,7 +237,7 @@ hr {
     header {
        
         /* background: #e3324a linear-gradient(180deg, #f0233e, #f3324c); */
-        background: #00001e linear-gradient(180deg, #00001e, #00001e);
+        background: #4056A1;
     }
     
     /* sidebar */
@@ -695,6 +695,10 @@ hr {
         font-size: 14px;
         margin-top: 0.5rem;
         margin-bottom: 0.5rem;
+    }
+    .fg-log2 a{
+        width: 100%;
+        font-size: 14px;
     }
     .fg-log input {
         font-size: 14px;
