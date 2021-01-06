@@ -186,9 +186,10 @@ hr {
 @media only screen and (max-width: 550px) {
     
     .navbar-brand img {
-        height: 2.2rem;
+        height: 2.3rem;
         width: auto;
         margin: 0px 0px 0px 0px;
+        
     }
     .togglerimg {
         height: 1.7rem;
